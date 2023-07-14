@@ -1,0 +1,32 @@
+.text-centre{
+    text-align: center;
+    
+    }
+    
+    .flex{
+    
+     justify-content: center;
+     display: flex;
+     align-items: center;
+     flex-direction: column;
+     padding:10px;
+    }
+    .button{
+        padding:10px;
+        width:45px;
+        height:45px;
+        border-radius:8px;
+        background-color:aqua;
+    }
+    .string{
+        border-radius: 4px;
+        padding:8px;
+        margin:6px;
+    }
+    .row{
+    background-color:blanchedalmond;
+    padding:5px;
+    border-radius:7px;
+    
+
+    }
